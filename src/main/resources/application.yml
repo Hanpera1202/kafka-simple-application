@@ -1,0 +1,6 @@
+kafka:
+  topic:
+    input: "test_input"
+    output: "test_output"
+  bootstrap.servers: "localhost:9092"
+  consumer.groupId: "test"
